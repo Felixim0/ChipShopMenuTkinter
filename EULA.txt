@@ -1,0 +1,5 @@
+This software is intended for home or private use only. Any use of software in a commercial environment is strictly prohibited.
+Do not distribute.
+IF the program doesn't return the correct amount of money, the blame is solely reliant uppon the user of the software. If the program returns values
+that result in moneys being owed too or from the end user, no responsability is put uppon the creator of the code.
+Use at your own risk.
